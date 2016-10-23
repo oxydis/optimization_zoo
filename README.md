@@ -1,7 +1,6 @@
 Todo
 
 Problems:
--
 -Ridge regression
 -Lasso
 -Logistic regression
@@ -11,7 +10,6 @@ Problems:
 -Matrix completion
 
 Methods:
--
 -Batch gradient with/without acceleration
 -SGD
 -Proximal/FISTA/ISTA
